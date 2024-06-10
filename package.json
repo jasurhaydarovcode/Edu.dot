@@ -1,0 +1,27 @@
+{
+  "name": "edu.dot",
+  "version": "1.0.0",
+  "description": "Edu.dot",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurhaydarovcode/Edu.dot.git"
+  },
+  "keywords": [
+    "Edu.dot",
+    "tailwind",
+    "html"
+  ],
+  "author": "Jasur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurhaydarovcode/Edu.dot/issues"
+  },
+  "homepage": "https://github.com/jasurhaydarovcode/Edu.dot#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
